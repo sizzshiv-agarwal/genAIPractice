@@ -1,6 +1,6 @@
 from google import genai
 from google.genai import types
-client = genai.Client(api_key='AIzaSyC2G5X7kG7Ve-jQqHfoglXDAnQ8SOSqx6w')
+client = genai.Client(api_key='')
 
 # Only run this block for Vertex AI API
 #client = genai.Client(
